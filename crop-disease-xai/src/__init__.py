@@ -1,0 +1,4 @@
+"""
+Explainable AI for Crop Disease Detection Package
+"""
+__version__ = "1.0.0"
